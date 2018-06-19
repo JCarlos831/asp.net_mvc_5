@@ -3,9 +3,9 @@
 /Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/bin/Debug/netcoreapp2.0/Vidly.runtimeconfig.dev.json
 /Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/bin/Debug/netcoreapp2.0/Vidly.dll
 /Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/bin/Debug/netcoreapp2.0/Vidly.pdb
-/Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/obj/Debug/netcoreapp2.0/Vidly.csprojResolveAssemblyReference.cache
 /Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/obj/Debug/netcoreapp2.0/Vidly.csproj.CoreCompileInputs.cache
 /Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/obj/Debug/netcoreapp2.0/Vidly.AssemblyInfoInputs.cache
 /Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/obj/Debug/netcoreapp2.0/Vidly.AssemblyInfo.cs
 /Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/obj/Debug/netcoreapp2.0/Vidly.dll
 /Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/obj/Debug/netcoreapp2.0/Vidly.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/obj/Debug/netcoreapp2.0/Vidly.csprojAssemblyReference.cache

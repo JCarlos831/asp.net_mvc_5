@@ -12543,7 +12543,7 @@
       "projectName": "Vidly",
       "projectPath": "/Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/Vidly.csproj",
       "packagesPath": "/Users/JuanCMontoya/.nuget/packages/",
-      "outputPath": "/Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/obj",
+      "outputPath": "/Users/JuanCMontoya/Projects/Udemy/csharp/asp.net_mvc_5/Vidly/Vidly/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -12571,15 +12571,15 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
-          },
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "2.0.0"
           }
         },
         "imports": [
